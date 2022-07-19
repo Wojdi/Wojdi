@@ -26,6 +26,6 @@
 <p><a href="https://ko-fi.com/wojdi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wojdi" /></a></p><br><br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wojdi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=c9d1d9&bg_color=0d1117" alt="wojdi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wojdi&&show_icons=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="wojdi" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojdi&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=c9d1d9&bg_color=0d1117" alt="wojdi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojdi&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=9571f7&text_color=c9d1d9&bg_color=0d1117" alt="wojdi" /></p>
