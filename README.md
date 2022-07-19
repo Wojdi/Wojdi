@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there, I'm Wojdi 👋
 
-<!--
-**Wojdi/Wojdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Helpie
+- 🌱 I’m currently learning JavaScript
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: [E-mail](mailto:wojdi@wojdi.pl)
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 
-Here are some ideas to get you started:
+**My website: [Wojdi.pl](https://wojdi.pl/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=Wojdi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
